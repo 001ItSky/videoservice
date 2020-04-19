@@ -1,4 +1,4 @@
-# vediotservice
+# videotservice
 视频播放测试服务（spring boot+javacv+websocket）  
 spring boot+opencv+websocket:https://www.freesion.com/article/2770277090/  
 Web下无插件播放rtsp视频流的方案总结_网络_经验之外:https://blog.csdn.net/ajrm0925/article/details/91879551?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2  
