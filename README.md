@@ -19,4 +19,4 @@ WebSocket传输图片：https://www.cnblogs.com/jzblogs/p/5613988.html
 JavaScript进行WebSocket字节流通讯示例：https://blog.coloc.cc/2018/11/javascriptwebsocket.html  
 JavaScript进行WebSocket字节流通讯示例 ：https://www.cnblogs.com/coloc/p/8127268.html  
 spring boot 使用WebSocket与前端进行byte字节数组交互：https://blog.csdn.net/m0_37992075/article/details/83587624  
-(3条消息)spring boot集成javacv + websocket实现实时视频推流回放（延时1-2秒）：https://blog.csdn.net/qq_23945685/article/details/104074262  
+spring boot集成javacv + websocket实现实时视频推流回放（延时1-2秒）：https://blog.csdn.net/qq_23945685/article/details/104074262  
